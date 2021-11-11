@@ -1,0 +1,27 @@
+.row{
+    border: solid black 1px;
+    background-color: brown;
+    width: 600px;
+    height: 300px;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+.col{
+    height: 100px;
+    width: 100px;
+    border: solid black 1px;
+    
+}
+.col-1{
+    background-color: chartreuse;
+}
+.col-2{
+    background-color: chocolate;
+}
+.col-3{
+    background-color: darkcyan;
+}
+.col-4{
+    background-color: darkolivegreen;
+}

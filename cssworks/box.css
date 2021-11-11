@@ -1,0 +1,22 @@
+h1{
+    color: hsl(238,39,31);
+    text-decoration: underline;
+    text-align: center;
+}
+#a1{
+    color: blueviolet;
+}
+.c1{
+    color: rgb(156, 19, 19);
+}
+
+div{
+    background-color: salmon;
+    
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    border: solid red 5px;
+    width: 20%;
+    height: 300px;
+    margin-left:522px;
+    margin-top: 50px;
+}

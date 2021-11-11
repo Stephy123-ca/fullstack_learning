@@ -1,0 +1,32 @@
+.row{
+    width:415px;
+    height: 400px;
+    border:black solid 1px;
+    background-color: brown;
+    position: relative;
+}
+.col{
+    border:black solid 1px;
+    width: 100px;
+    height: 100px;
+   float: left;
+   position: absolute;
+}
+.col1{
+    
+    background-color: chartreuse;
+    
+}
+.col2{
+   left:105px;
+    background-color: chartreuse;
+   
+}
+.col3{
+    left:210px;
+    background-color: chartreuse;
+}
+.col4{
+    left:315px;
+    background-color: chartreuse;
+}

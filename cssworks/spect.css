@@ -1,0 +1,117 @@
+body{
+    background-color: black;
+}
+div{
+    border: solid 1px;
+    width:90px;
+    height: 120px;
+}
+#a1{
+background-color: slategray;
+margin-left: 350px;
+margin-top: 100px;
+}
+#a2{
+    background-color: rgb(33, 114, 86);
+    margin-left: 450px;
+    margin-top: -122px;
+    }
+#a3{
+background-color: rgb(57, 145, 108);
+margin-left: 550px;
+margin-top: -122px;
+}
+#a4{
+    background-color: rgb(15, 194, 69);
+    margin-left: 650px;
+    margin-top: -122px;
+    }
+#a5{
+    background-color: rgb(198, 203, 207);
+    margin-left: 750px;
+    margin-top: -122px;
+    }    
+#a6{
+background-color: rgb(190, 118, 23);
+margin-left: 250px;
+margin-top: 10px;
+}
+#a7{
+background-color: rgb(187, 84, 81);
+margin-left: 350px;
+margin-top: -122px;
+}
+#a8{
+    background-color: rgb(141, 116, 150);
+    margin-left: 450px;
+    margin-top: -122px;
+}
+#a9{
+    background-color: rgb(137, 84, 180);
+    margin-left: 550px;
+    margin-top: -122px;
+}
+#a10{
+    background-color: rgb(91, 74, 189);
+    margin-left: 650px;
+    margin-top: -122px;
+}
+#a11{
+    background-color: rgb(114, 80, 158);
+    margin-left: 750px;
+    margin-top: -122px;
+}
+#a12{
+    background-color: rgb(125, 139, 153);
+    margin-left: 850px;
+    margin-top: -122px;
+}
+#a13{
+    background-color: rgb(84, 182, 199);
+    margin-left: 150px;
+    margin-top: 10px;
+}
+#a14{
+    background-color: rgb(179, 221, 151);
+    margin-left: 250px;
+    margin-top: -122px;
+}
+#a15{
+    background-color: rgb(199, 159, 99);
+    margin-left: 350px;
+    margin-top: -122px;
+}
+#a16{
+    background-color: rgb(128, 34, 77);
+    margin-left: 450px;
+    margin-top: -122px;
+}
+#a17{
+    background-color: rgb(83, 24, 43);
+    margin-left: 550px;
+    margin-top: -122px;
+}
+#a18{
+    background-color: rgb(45, 201, 180);
+    margin-left: 650px;
+    margin-top: -122px;
+}
+#a19{
+    background-color: rgb(62, 131, 114);
+    margin-left: 750px;
+    margin-top: -122px;
+}
+#a20{
+    background-color: rgb(107, 87, 139);
+    margin-left: 850px;
+    margin-top: -122px;
+}
+#a21{
+    background-color: rgb(86, 56, 99);
+    margin-left: 950px;
+    margin-top: -122px;
+}
+h1{
+    color: beige;
+    text-align: center;
+}

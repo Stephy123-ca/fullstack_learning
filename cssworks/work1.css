@@ -1,0 +1,12 @@
+/* tag selector*/
+h1{
+    color: chartreuse;
+}
+/* id selector*/
+#second{
+    color:coral;
+}
+/* class selector*/
+.third{
+    color: crimson;
+}
